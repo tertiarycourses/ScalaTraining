@@ -8,6 +8,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/basic-scala-training-apache-spark.html
 
+https://www.tertiarycourses.com.my/basic-scala-training-apache-spark-malaysia.html
+
 
 <p><strong>Module 1: Get Started on Scala</strong></p>
 <ul>
