@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="exercises/module1_get_started/src"/>
+	<classpathentry kind="src" path="exercises/module2_data_types/.worksheet/src"/>
+	<classpathentry kind="src" path="exercises/module2_data_types/src"/>
+	<classpathentry kind="src" path="exercises/module3_conditonal/src"/>
+	<classpathentry kind="src" path="exercises/module4_loop/src"/>
+	<classpathentry kind="src" path="exercises/module5_function/src"/>
+	<classpathentry kind="src" path="exercises/module6_oop/src"/>
+	<classpathentry kind="src" path="exercises/moidule7_exception/src"/>
+	<classpathentry kind="output" path="exercises/module1_get_started/bin"/>
+</classpath>
