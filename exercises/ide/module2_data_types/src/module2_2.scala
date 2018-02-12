@@ -9,7 +9,7 @@ object module2_1 {
 //  var a: Int = 2
 //  var b = 2.3
 //  var c = a+b
-//  print(c)
+//  println(c)
 //  printf("%d + %.2f = %.2f",a,b,c)
     
  
@@ -31,14 +31,14 @@ object module2_1 {
 //String
 //var greet = "Hello"
 //var name = "Alfred"
-//print(greet+" "+ name)
-//print("My name is "+name)
+//println(greet+" "+ name)
+//println("My name is "+name)
 //printf("My name is %s",name)
     
 //Exercise: String 
 //var country ="france"
 //var capital ="paris"
-//print("The capital of "+ country +" is "+ capital)
+//println("The capital of "+ country +" is "+ capital)
 //printf("The capital of %s is %s",country,capital)
     
 //Array
@@ -46,7 +46,7 @@ object module2_1 {
 //  var a: Array[Int] = Array(1,2,10)
 //var a: Array[Int] = new Array[Int](10)
 //a(0) = 4
-//print(a(0))
+//println(a(0))
 
 
    
